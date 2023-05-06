@@ -1,0 +1,34 @@
+.navigation {
+  width: 100%;
+  position: relative;
+  min-height: 60px;
+  z-index: 1;
+}
+
+#navbarNav{
+  justify-content: flex-end;
+}
+
+.navbar-brand {
+  color: 	#f6d77a;
+
+}
+
+.navbar-light, .navbar-nav, .nav-link {
+  color: #333333;
+  font-weight: 600;
+  padding-left: 1.2rem !important;
+  padding-right: 1.2rem !important;
+}
+
+.btn {
+  background-color: #2299aa !important;
+  border-radius: 2rem;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+  color: #ffffff !important;
+}
+
+.banner {
+  background-color: #cfe2f3;
+}
